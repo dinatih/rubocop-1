@@ -1,7 +1,7 @@
 [![Gem Version](https://badge.fury.io/rb/rubocop.svg)](https://badge.fury.io/rb/rubocop)
 [![CircleCI Status](https://circleci.com/gh/dinatih/rubocop-1/tree/dh-add-ordered-methods-cop
-.svg?style=svg)](https://circleci.com/gh/dinatih/rubocop-1/tree/dh-add-ordered-methods-cop
-) (dh branch)
+.svg?style=svg)](https://circleci.com/gh/dinatih/rubocop-1/tree/dh-add-ordered-methods-cop)
+(dh branch)
 [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/sj3ye7n5690d0nvg?svg=true)](https://ci.appveyor.com/project/bbatsov/rubocop)
 [![Coverage Status](https://api.codeclimate.com/v1/badges/ad6e76460499c8c99697/test_coverage)](https://codeclimate.com/github/bbatsov/rubocop)
 [![Code Climate](https://codeclimate.com/github/bbatsov/rubocop/badges/gpa.svg)](https://codeclimate.com/github/bbatsov/rubocop)
