@@ -949,6 +949,10 @@ Layout/MultilineOperationIndentation:
   # But it can be overridden by setting this parameter
   IndentationWidth: ~
 
+Layout/OrderedMethods:
+  Description: 'Order methods alphabetically.'
+  Enabled: false
+
 Layout/RescueEnsureAlignment:
   Description: 'Align rescues and ensures correctly.'
   Enabled: true
